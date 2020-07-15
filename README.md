@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ram-nad/ram-nad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science undergrad student at IIIT Sri City.
 
-Here are some ideas to get you started:
+### My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Operating Systems
+ - Computer Networking
+ - Competitive Coding
+ - Web Development
+ 
+### You can find me at..
+
+ - [**LinkedIn**](https://www.linkedin.com/in/ram-nad/)
+ - [**Dev.to**](https://dev.to/ramnad1999)
