@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer science undergrad student at IIIT Sri City.
+I am a Software Engineer
 
 ### My Interests
 
